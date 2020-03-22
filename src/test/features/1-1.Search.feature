@@ -1,3 +1,6 @@
+@ftr-sub:Functinoal/Search-charsetsAndCasings.feature
+@ftr-sub:Functional/Search-nearMatches.feature
+@ftr-sub:Performance/Search-latency.feature
 Feature: Search
 
   As a Website user
@@ -19,6 +22,3 @@ Feature: Search
     When a user searches for "Star"
     Then all the Star Wars and Star Trek T-shirts are shown
 
-  @ftr-sub:Functinoal/Search-charsetsAndCasings.feature
-  @ftr-sub:Functional/Search-nearMatches.feature
-  @ftr-sub:Performance/Search-latency.feature
