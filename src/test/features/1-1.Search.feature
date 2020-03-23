@@ -1,6 +1,5 @@
-@ftr-sub:Functinoal/Search-charsetsAndCasings.feature
-@ftr-sub:Functional/Search-nearMatches.feature
-@ftr-sub:Performance/Search-latency.feature
+@ftr-parent:WebShop
+@ftr-id:Search
 Feature: Search
 
   As a Website user
@@ -14,7 +13,7 @@ Feature: Search
 
   Scenario: Search on an unknown theme
     Given Game of Thrones, Star Wars, Lego, Metallica, and Star Trek T-shirts
-    When a user searches for "Pearl Jam"
+    When a user searches for "Bon Jovi"
     Then no T-shirts are shown
 
   Scenario: Search matches multiple themes
