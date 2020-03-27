@@ -1,6 +1,6 @@
 @ftr-parent:Search
 @ftr-id:Website-Search
-Feature: Search
+Feature: Search on the Website
 
   As a Website user
   I want to search for T-shirts

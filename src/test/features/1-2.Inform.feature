@@ -1,6 +1,6 @@
 @ftr-parent:WebShop
 @ftr-id:Inform
-Feature: Inform
+Feature: Information on T-shirts
 
   As a Website user
   I want to be informed about T-shirts

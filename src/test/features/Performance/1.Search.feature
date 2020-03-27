@@ -1,6 +1,6 @@
 @ftr-parent:Search
 @ftr-id:Performance-Search
-Feature: Search
+Feature: Search performance
 
   As a Website user
   I want to search for T-shirts

@@ -1,6 +1,6 @@
 @ftr-parent:WebShop
 @ftr-id:Sale
-Feature: Sale
+Feature: Selling a T-shirt
 
   As a Website user
   I want to be able to order a T-shirt

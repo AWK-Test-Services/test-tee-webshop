@@ -1,6 +1,6 @@
 @ftr-parent:WebShop
 @ftr-id:Select
-Feature: Select
+Feature: Selection of T-shirt details
 
   As a Website user
   I want to select a T-shirts
