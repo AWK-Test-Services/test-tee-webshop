@@ -6,5 +6,5 @@ Feature: A Webshop to sell T-Shirts
   In order to supply Customers with the right T-shirts
   Resulting in Happy Customers and a fair profit for the TesTee Company
 
-  <ftr-image src="./feature-additions/Example-image.png" type="png">
+  <ftr-image src="./Website_Strategy.png" type="png">
 
