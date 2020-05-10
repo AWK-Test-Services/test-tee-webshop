@@ -2,7 +2,7 @@
 @ftr-id:Inform
 Feature: Information on T-shirts
 
-  As a Website user
+  As a Customer
   I want to be informed about T-shirts
   In order to buy the best T-shirt for me
 

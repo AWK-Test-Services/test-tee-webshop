@@ -2,7 +2,7 @@
 @ftr-id:Select
 Feature: Selection of T-shirt details
 
-  As a Website user
+  As a Customer
   I want to select a T-shirts
   In order to buy a suitable T-shirt
 

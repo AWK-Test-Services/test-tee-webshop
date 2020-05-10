@@ -2,7 +2,7 @@
 @ftr-id:Sale
 Feature: Selling a T-shirt
 
-  As a Website user
+  As a Customer
   I want to be able to order a T-shirt
   In order to be able to wear a nice T-shirt
 

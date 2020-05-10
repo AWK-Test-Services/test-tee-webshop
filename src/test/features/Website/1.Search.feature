@@ -2,7 +2,7 @@
 @ftr-id:Website-Search
 Feature: Search on the Website
 
-  As a Website user
+  As a Customer
   I want to search for T-shirts
   In order to quickly find and buy the best T-shirt for me
 
