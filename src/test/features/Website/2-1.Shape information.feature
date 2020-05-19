@@ -1,6 +1,6 @@
 @ftr-parent:Inform
-@ftr-id:Website-Search
-Feature: Search on the Website
+@ftr-id:Website-Inform-Shape
+Feature: Be informed about the shape of a T-shirt
 
   As a Customer
   I want to be informed about the shape of T-shirts
@@ -8,10 +8,5 @@ Feature: Search on the Website
 
   Scenario: Information about T-shirt shapes
     Given a user has selected a T-Shirt to view
-    Then the available shapes are shown
-    And he/she can select 1 shape at a time
-
-
-
-
+    Then he can see that there is a male and female version
 
